@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GitDemoClass1.cs" />
+    <Compile Include="EnumDemo.cs" />
+    <Compile Include="InternalAccessModifier.cs" />
+    <Compile Include="ProtectAccessModifier.cs" />
+    <Compile Include="PublicAccessModifier.cs" />
+    <Compile Include="PrivateAccessModifier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
