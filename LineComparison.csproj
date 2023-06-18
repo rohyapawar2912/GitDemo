@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B7F11CEE-3C50-4545-B25F-FD73AF58F8A1}</ProjectGuid>
+    <ProjectGuid>{18BE8CC8-0FC4-4013-ACCD-D92AF1681BCC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GitDemo</RootNamespace>
-    <AssemblyName>GitDemo</AssemblyName>
+    <RootNamespace>LineComparison</RootNamespace>
+    <AssemblyName>LineComparison</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EnumDemo.cs" />
-    <Compile Include="InternalAccessModifier.cs" />
-    <Compile Include="ProtectAccessModifier.cs" />
-    <Compile Include="PublicAccessModifier.cs" />
-    <Compile Include="PrivateAccessModifier.cs" />
+    <Compile Include="Line.cs" />
+    <Compile Include="Linee.cs" />
+    <Compile Include="LineEqual.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

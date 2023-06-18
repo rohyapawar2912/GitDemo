@@ -1,0 +1,8 @@
+C:\Users\rohit\OneDrive\Desktop\RFP288\Day3\LineComparison\bin\Debug\LineComparison.exe.config
+C:\Users\rohit\OneDrive\Desktop\RFP288\Day3\LineComparison\bin\Debug\LineComparison.exe
+C:\Users\rohit\OneDrive\Desktop\RFP288\Day3\LineComparison\bin\Debug\LineComparison.pdb
+C:\Users\rohit\OneDrive\Desktop\RFP288\Day3\LineComparison\obj\Debug\LineComparison.csproj.AssemblyReference.cache
+C:\Users\rohit\OneDrive\Desktop\RFP288\Day3\LineComparison\obj\Debug\LineComparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\rohit\OneDrive\Desktop\RFP288\Day3\LineComparison\obj\Debug\LineComparison.csproj.CoreCompileInputs.cache
+C:\Users\rohit\OneDrive\Desktop\RFP288\Day3\LineComparison\obj\Debug\LineComparison.exe
+C:\Users\rohit\OneDrive\Desktop\RFP288\Day3\LineComparison\obj\Debug\LineComparison.pdb
